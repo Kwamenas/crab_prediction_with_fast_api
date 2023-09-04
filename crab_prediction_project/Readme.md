@@ -16,10 +16,10 @@ link to huggingface space :https://kwamenas-crab-predictor-fast-api.hf.space
 
 Take aways: We realised that the Length of a crab has less correlation with tha age of the crab.
 Same with the weight of the crab.
-The three most important features that have a high correlation with the age of the crab in pir dataset are:
+The three most important features that have a high correlation with the age of the crab in our dataset are:
 1. Shell Weight
 2. Height
 3. Shuck weight.
 
-Feel free to explore on this and i'm open for any questions and collabprations
+Feel free to explore on this and i'm open for any questions and collaborations
 Email: niiadjei.sowah68@gmail.com
